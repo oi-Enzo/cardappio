@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0; 
+  }
+  
+  body {
+    background-color: #000033; /* HEX vai do 00-FF */
+    font-family: "roboto", sans-serif;
+  }
+  ul {  
+    list-style: none; 
+  }
+  
+  header {
+    padding: 32px 0;
+    text-align: center; 
+    }
+    header,   
+  section {
+    max-width: 300px;
+    margin: 0 auto ;
+  }
+  
+   section {
+      margin-bottom: 24px;  
+    }
+  
+  header h1 span {
+    color:#3399ff; 
+  }
+  
+  h3{
+    color: white;
+    font-size: 16px;
+    line-height: 19px;  
+  }
+  
+  header h1 {
+    margin-bottom: 4px;
+    color: white;
+    font-size: 28px;
+    line-height: 33px;
+  }
+  
+  header p{
+    line-height: 17px;
+    font-size: 14px;
+    color: white;
+  }
+  
+  
+  section h2 {
+     background-color: #0080ff;
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 18px;
+  }
+    ul li {
+      margin-bottom: 16px;
+      display: flex; 
+      gap: 10px;
+      color: white;
+    }
+  
+    li .Bebidas {
+        width: 240px;
+    }
+  
+    .Bebidas {
+      margin-bottom: 8px;  
+    }
+  
+    p {
+      color: #68788E;
+      font-size: 14px;
+      line-height: 21px;
+    }
+  
+    /* fonts */
+    h1,
+    h2,
+    h3,
+  .preço {
+    font-family: "Roboto Serif", serif;
+    text-transform: uppercase;
+  }
+     
+  
